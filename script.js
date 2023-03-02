@@ -50,9 +50,6 @@ console.log(averageValueFixed)
 let discount = Math.random(fruitsCost)*100;
 console.log(discount)
 
-/* Знижка у відсотках
-let discountPercent = discount*100/fruitsCost;
-console.log(Math.round(discountPercent) + '%') */
 
 /*виведена сума до оплати з випадковою знижкою округлена
 до 2 знаків після коми.*/
